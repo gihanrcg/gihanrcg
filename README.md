@@ -29,7 +29,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gihanrcg)](https://github.com/gihanrcg/github-readme-stats)
 </br>
 
-[website]: https://gihanrcg.github.io/me/
+[website]: https://gihansiriwardhana.live/
 [twitter]: https://twitter.com/gihanrcg
 [linkedin]: https://www.linkedin.com/in/gihan-saranga-siriwardhana/
 [Facebook]: https://www.facebook.com/gihan.s.siriwardhana
