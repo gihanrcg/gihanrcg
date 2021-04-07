@@ -4,9 +4,9 @@
 
 ## I'm a Full Stack Developer 🧑‍💻, Creative Designer🧑‍🎨, and Volunteer
 
+- 🌱 I’m a Software Engineer at SyscoLABS Technologies
 - 📚 I’m a Microsoft Learn Student Ambassador
 - 🤵 I'm the active President at MS Club of SLIIT
-- 🌱 I’m a Trainee Software Developer at IFS R & D 
 - 👯 I’m looking to collaborate with motives👨🏻‍🚀 👩🏻‍🚀 and Knowldge Seekers🧑🏻‍🔬 👨🏻‍🔬
 - 🥅 2020 Goals: Contribute more to Open Source projects👬🏻 👭🏻 👫🏻
 - ⚡ Fun fact: I love to help Others👫🏻 , motivate others and Traveling  🧗🏻 🤩
